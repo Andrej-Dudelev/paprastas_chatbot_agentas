@@ -1,4 +1,4 @@
-import camelcase # This script uses the camelcase library to convert a string to camel case format.
+import camelcase # Šis skriptas naudoja camelcase biblioteką eilutei konvertuoti į camel case formatą.
 
 c = camelcase.CamelCase()
 
